@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm C# and TypeScript from Berlin - but meanwhile my secret passion is Swift/SwiftUI <3
+
 <!--
 **creepymonster/creepymonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
